@@ -1,2 +1,13 @@
-# CS-230-Portfolio
-CS 230 Software Design Document and Portfolio Reflection
+CS 230 Portfolio Reflection
+
+For CS 230, my completed software design document was created for the client The Gaming Room. The Gaming Room wanted to expand their Android game, Draw It or Lose It, so that it could work across multiple platforms. The software needed to support multiple teams and players, manage unique game and team names, store game data, and work in a distributed environment. The design document helped explain the recommended operating platform, architecture, memory and storage management, security, and networking needs for the application.
+
+One thing I did particularly well in developing this documentation was organizing the client’s requirements into clear sections and connecting those requirements to technical recommendations. I made sure to explain why certain platforms and design choices were better for the client instead of only listing options. I also focused on making the document understandable for both the client and the development team.
+
+Working through the design document was helpful because it forced me to plan before writing or recommending code. Instead of jumping straight into development, I had to think about the application’s structure, operating platforms, security, storage, memory management, and scalability. This helped me better understand how planning can prevent problems later in the development process.
+
+If I could revise one part of my work, I would improve the comparison between the different operating platforms. I would add more specific examples of how Windows, Linux, macOS, and mobile platforms handle file systems, memory, and security differently. This would make the recommendation even stronger and easier for the client to understand.
+
+I interpreted the user’s needs by looking at what The Gaming Room wanted the software to do and then translating those needs into design requirements. For example, because the game needed to support multiple users, teams, and games, the design needed to include unique identifiers, reliable data handling, and a scalable architecture. Considering the user’s needs is important because software should solve the client’s actual problem. If the design does not match the user’s goals, the final product may not be useful even if the code works.
+
+My approach to designing software was to first understand the client’s goals, then break those goals into technical requirements. I compared different platform options and considered performance, security, scalability, cost, and ease of maintenance. In the future, I would continue using this strategy by gathering requirements first, creating a design plan, comparing possible solutions, and then choosing the best option based on the client’s needs.
